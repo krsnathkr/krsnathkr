@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Tensorflow**
 
-- 📫 How to reach me **krishna161003@gmail.com**
+- 📫 How to reach me **krsnathkr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
